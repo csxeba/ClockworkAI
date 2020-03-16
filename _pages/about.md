@@ -1,13 +1,10 @@
 ---
 layout: page
-title: About Me
+title: Csaba Gór
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+## About
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Clockwork AI is an opinion blog, mainly concerned about the topics of *deep learning*, *deep reinforcement learning* and *artificial intelligence* in general.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
